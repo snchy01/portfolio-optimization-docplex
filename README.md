@@ -142,11 +142,11 @@ while the long-run mean anchors the estimate against recency bias.
 
 ---
 
-![Cumulative Returns](Cumulative return curves.png)
+![Cumulative Returns](images/Cumulative_return_curves.png)
 
-![Weight Allocation](Weight allocation bar chart.png)
+![Weight Allocation](images/Weight_allocation_bar_chart.png)
 
-![Train vs Test](Train vs Test return comparison.png)
+![Train vs Test](images/Train_vs_Test_return_comparison.png)
 
 ## Core Insights
 
