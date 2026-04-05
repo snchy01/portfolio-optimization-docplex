@@ -141,16 +141,12 @@ while the long-run mean anchors the estimate against recency bias.
 | CVaR 5%          |   20.00%  |   −8.58%     |   11.61%  |  −1.34 | **−14.08% ✅** |
 
 ---
-## Results
 
-### Cumulative Returns — Train & Test Period
-![Cumulative Returns](images/Weight allocation bar chart.png)
+![Cumulative Returns](Cumulative return curves.png)
 
-### Portfolio Weight Allocation by Model
-![Weight Allocation](images/Cumulative return curves.png)
+![Weight Allocation](Weight allocation bar chart.png)
 
-### Train vs Test Performance Comparison
-![Train vs Test](images/Train vs Test comparison.png)
+![Train vs Test](Train vs Test return comparison.png)
 
 ## Core Insights
 
