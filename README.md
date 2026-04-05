@@ -146,7 +146,7 @@ while the long-run mean anchors the estimate against recency bias.
 
 ![Weight Allocation](images/Weight_allocation_bar_chart.png)
 
-![Train vs Test](images/Train_vs_Test_return_comparison.png)
+![Train vs Test](images/Train _vs _Test _return_comparison.png)
 
 ## Core Insights
 
